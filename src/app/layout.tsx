@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Chill de Cojones",
     description: "Sólo un generador de tipos tranquilos.",
-    url: "https://guy-chill.vercel.app",
+    url: "https://just-chill-guy-seven.vercel.app/",
     images: ["opengraph-image.png"],
     type: "website",
     locale: "es_AR",
