@@ -37,6 +37,17 @@ export default function HomePage() {
             currentBackgroundColor={currentBackgroundColor}
           />
         </div>
+        <footer className="text-center p-4">
+          <p>By Kevin Ayerdi Perticarari</p>
+          <div>
+            <a href="https://github.com/KAyerdi" target="_blank" rel="noopener noreferrer" className="mr-4">
+              GitHub
+            </a>
+            <a href="https://www.linkedin.com/in/kevin-perticarari-ayerdi-94968412b/" target="_blank" rel="noopener noreferrer">
+              LinkedIn
+            </a>
+          </div>
+        </footer>
       </div>
     </>
   );
