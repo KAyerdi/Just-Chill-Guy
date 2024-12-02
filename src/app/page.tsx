@@ -24,10 +24,10 @@ export default function HomePage() {
           <footer className="text-center p-4">
           <p>By Kevin Ayerdi Perticarari</p>
           <div>
-            <a href="https://github.com/KAyerdi" target="_blank" rel="noopener noreferrer" className="mr-4">
+            <a href="https://github.com/KAyerdi" target="_blank" rel="noopener noreferrer" className="mr-4 rounded-full bg-gray-200 px-4 py-2 hover:bg-gray-300 transition">
               GitHub
             </a>
-            <a href="https://www.linkedin.com/in/kevin-perticarari-ayerdi-94968412b/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/kevin-perticarari-ayerdi-94968412b/" target="_blank" rel="noopener noreferrer" className="rounded-full bg-gray-200 px-4 py-2 hover:bg-gray-300 transition">
               LinkedIn
             </a>
           </div>
