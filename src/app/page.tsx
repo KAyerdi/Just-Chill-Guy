@@ -31,6 +31,7 @@ export default function HomePage() {
               LinkedIn
             </a>
           </div>
+          <div><a href="https://soykevin.ar">SoyKevin.ar</a></div>
         </footer></div>
         <canvas
           ref={canvasRef}
