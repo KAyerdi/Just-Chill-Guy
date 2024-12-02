@@ -65,7 +65,7 @@ export function Toolbar({
             variant="outline"
             size={"icon"}
             className="rounded-full shrink-0 hover:animate-jelly"
-            tooltip="Fundo"
+            tooltip="Fondo"
           >
             <input {...getInputProps()} />
             <CopyPlus className="size-4" />
@@ -77,7 +77,7 @@ export function Toolbar({
                 size={"icon"}
                 className="rounded-full shrink-0 hover:animate-jelly"
                 style={{ backgroundColor: currentBackgroundColor }}
-                tooltip="Cor"
+                tooltip="Color"
               />
             </PopoverTrigger>
             <PopoverContent
@@ -110,7 +110,7 @@ export function Toolbar({
             variant="outline"
             size={"icon"}
             className="rounded-full shrink-0 hover:animate-jelly"
-            tooltip="Virar"
+            tooltip="Girar"
           >
             <FlipHorizontal className="size-4" />
           </Button>
@@ -134,7 +134,7 @@ export function Toolbar({
             variant="outline"
             size={"icon"}
             className="rounded-full shrink-0 hover:animate-jelly"
-            tooltip="Excluir"
+            tooltip="Eliminar"
           >
             <Trash2 className="size-4 text-red-600" />
           </Button>
@@ -146,7 +146,7 @@ export function Toolbar({
             variant="outline"
             size={"icon"}
             className="rounded-full shrink-0 hover:animate-jelly"
-            tooltip="Download"
+            tooltip="Descargar"
           >
             <Download className="size-4" />
           </Button>

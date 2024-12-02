@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     url: "https://guy-chill.vercel.app",
     images: ["opengraph-image.png"],
     type: "website",
-    locale: "pt_BR",
+    locale: "es_AR",
   },
   robots: {
     index: true,
@@ -31,7 +31,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="pt-BR" className={inter.variable} suppressHydrationWarning>
+    <html lang="es-ar" className={inter.variable} suppressHydrationWarning>
       <body className="antialiased overflow-hidden">
         <div className="fixed left-0 top-0 -z-10  h-full w-full bg-white bg-[radial-gradient(#e5e7eb_1px,transparent_1px)] [background-size:16px_16px]" />
 
