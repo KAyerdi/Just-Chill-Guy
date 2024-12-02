@@ -6,13 +6,13 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
 export const metadata: Metadata = {
-  title: "solo un chico tranquilo",
+  title: "Chill de Cojones",
   description: "Sólo un generador de tipos tranquilos",
   icons: {
     icon: "/favicon.ico",
   },
   openGraph: {
-    title: "solo un chico tranquilo",
+    title: "Chill de Cojones",
     description: "Sólo un generador de tipos tranquilos.",
     url: "https://guy-chill.vercel.app",
     images: ["opengraph-image.png"],
