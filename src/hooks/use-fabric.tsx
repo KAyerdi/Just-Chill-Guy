@@ -7,7 +7,7 @@ import { useWindow } from "@/hooks/use-window";
 const CANVAS_DIMENSIONS = { default: 500, mobileMultiplier: 0.9 };
 const DEFAULT_BACKGROUND_COLOR = "#8d927b";
 const DEFAULT_TEXT_OPTIONS = {
-  text: "Seu texto aqui",
+  text: "Su texto aqui",
   fontSize: 40,
   fontFamily: "Impact",
   fill: "white",
