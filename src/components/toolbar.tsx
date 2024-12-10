@@ -101,7 +101,7 @@ export function Toolbar({
             variant="outline"
             size={"icon"}
             className="rounded-full shrink-0 hover:animate-jelly"
-            tooltip="Cara tranquilo"
+            tooltip="Chill Guy"
           >
             <img src="chillguy.png" className="size-6" />
           </Button>
